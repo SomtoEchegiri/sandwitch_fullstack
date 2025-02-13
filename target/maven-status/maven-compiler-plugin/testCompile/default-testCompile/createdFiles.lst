@@ -1,0 +1,9 @@
+pl\tiuprojekt\sandwitch\SandwitchApplicationTests.class
+pl\tiuprojekt\sandwitch\repo\OrderItemRepoTests.class
+pl\tiuprojekt\sandwitch\repo\StateRepoTests.class
+pl\tiuprojekt\sandwitch\repo\AddressRepoTests.class
+pl\tiuprojekt\sandwitch\repo\ProductRepoTests.class
+pl\tiuprojekt\sandwitch\repo\DatabaseTest.class
+pl\tiuprojekt\sandwitch\repo\UserRepoTests.class
+pl\tiuprojekt\sandwitch\repo\CategoryRepoTests.class
+pl\tiuprojekt\sandwitch\repo\OrderRepoTests.class
