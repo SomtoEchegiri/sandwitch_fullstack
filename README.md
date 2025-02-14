@@ -21,13 +21,5 @@ Application will have contain:
 Schemat ERD 
 ![DB_SCHEMA](https://raw.githubusercontent.com/longdavid2k17/sandwitch_fullstack/master/readme_images/db_schema.PNG)
 
-Schemat fizykalny 
+Physical diagram
 ![DB_SCHEMA2](https://raw.githubusercontent.com/longdavid2k17/sandwitch_fullstack/master/readme_images/shema_REL.PNG)
-
-
-Frontend storybook: https://github.com/AdamJochemczyk/sandwitch-components
-
-# TODO FOR NEXT MEETING
-- default set of data in DB
-- fixed DB
-- corrected diagrams (first one in conceptual way, second one with correct tables) 
