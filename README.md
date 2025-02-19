@@ -1,3 +1,5 @@
+# Owner
+This web app is created by Somto Echegiri
 # Features
 - user can create account, order food and wait for its order
 - visually good Angular client 
